@@ -4,18 +4,22 @@
 {%- if page.extra.css %}
 <link href="./article.css" rel="stylesheet" />
 {%- endif %}
+
 <link
+    id="giallo-dark"
     rel="stylesheet"
     type="text/css"
-    href="/syntax-theme-dark-custom.css"
+    href="/giallo-dark.css"
     media="(prefers-color-scheme: dark)"
 />
 <link
+    id="giallo-light"
     rel="stylesheet"
     type="text/css"
-    href="/syntax-theme-light-custom.css"
+    href="/giallo-light.css"
     media="(prefers-color-scheme: light)"
 />
+
 {%- if page.extra.excerpt %} {%- set social_description = page.extra.excerpt |
 safe %} {%- elif page.summary %} {%- set social_description = page.summary |
 safe %} {%- else %} {%- set social_description = page.content |
