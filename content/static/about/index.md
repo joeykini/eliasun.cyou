@@ -7,7 +7,7 @@ template = "about.html"
 |                 |                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🗺️ **Living in**   | Düsseldorf, Germany                                                                                                                                         |
-| 🏭 **Company**     | [corrode](https://corrode.dev) (Rust Consulting)                                                                                                            |
+| 🏭 **Company**     | [corrode](https://corrode.dev) Rust Consulting                                                                                                            |
 | 🎙️ **Podcast**     | Host of [Rust in Production](https://corrode.dev/podcast)                                                                                                   |
 | ❤️ **Open Source** | [lychee](https://lychee.cli.rs), [Analysis Tools](https://analysis-tools.dev), [Idiomatic Rust](https://github.com/mre/idiomatic-rust), [...](#open-source) |
 | 🎯 **Focus areas** | Rust, backend systems, performance optimizations                                                                                                            |
